@@ -2,7 +2,7 @@
   "update": "Yes",
   "new_version": "1.1.11",
   "apk_file_url": "https://raw.githubusercontent.com/daringjw/updateapk/master/com.jkkc.travel.apk",
-  "update_log": "1，金坤科创出品。\r\n2，升级版本华丽升级。\r\n3，升级界面改变以往风格，更友好，更贴心。\r\n4，无升级大礼包。",
+  "update_log": "1，金坤科创出品。\r\n2，此版本华丽升级。\r\n3，升级界面改变之前风格，更友好，更贴心。",
   "target_size": "13.74M",
   
   "constraint": false

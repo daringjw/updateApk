@@ -2,7 +2,7 @@
   "update": "Yes",
   "new_version": "1.1.11",
   "apk_file_url": "https://raw.githubusercontent.com/daringjw/updateapk/master/com.jkkc.travel.apk",
-  "update_log": "1，金坤科创出品。\r\n2，此版本华丽升级。\r\n3，升级界面改变之前风格，更友好，更贴心。",
+  "update_log": "1，添加删除信用卡接口\r\n2，添加vip认证\r\n3，区分自定义消费，一个小时不限制。\r\n4，添加放弃任务接口，小时内不生成。\r\n5，消费任务手动生成。",
   "target_size": "13.74M",
   "new_md5":"A818AD325EACC199BC62C552A32C35F2",
   "constraint": false

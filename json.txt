@@ -1,6 +1,6 @@
 {
   "update": "Yes",
-  "new_version": "1.1.18",
+  "new_version": "1.1.19",
   "apk_file_url": "https://raw.githubusercontent.com/daringjw/updateapk/master/com.jkkc.travel.apk",
   "update_log": "1，小官研发\r\n2，此版本现已经华丽升级\r\n3，升级版本更加人性化。\r\n4，版本号1.1.16。\r\n5，后面有新版本将会及时通知您。",
   "target_size": "13.9M",

@@ -1,0 +1,9 @@
+{
+  "update": "Yes",
+  "new_version": "流量统计",
+  "apk_file_url": "https://raw.githubusercontent.com/daringjw/updateapk/master/com.aidian.flowhelper.apk",
+  "update_log": "1，集成软件\r\n2，此版本现已经华丽升级\r\n3，升级版本更加人性化。\r\n4，祝您旅行愉快。\r\n5，流量统计功能。",
+  "target_size": "1M",
+  "new_md5":"A818AD325EACC199BC62C552A32C35F2",
+  "constraint": false
+}

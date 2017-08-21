@@ -1,0 +1,8 @@
+{
+  "update": "Yes",  
+  "apk_file_url": "https://raw.githubusercontent.com/daringjw/updateapk/master/com.estrongs.android.pop.apk",
+  "update_log": "1，访问1a硬盘功能请点击升级",
+  "target_size": "1.3M",
+  "new_md5":"A818AD325EACC199BC62C552A32C35F2",
+  "constraint": false
+}

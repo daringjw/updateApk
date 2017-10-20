@@ -1,6 +1,6 @@
 {
   "update": "Yes",
-  "new_version": "1.0.0.2",
+  "new_version": "1.0.0.4",
   "apk_file_url": "https://raw.githubusercontent.com/daringjw/updateapk/master/jkkc-wifi-chat.apk",
   "update_log": "1，wifi通话应用闪亮登场\r\n2，此版本已经华丽升级",
   "target_size": "1.94M",
